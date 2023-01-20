@@ -1,5 +1,5 @@
 # My Portfolio Webpage Project 
-Here is my first attempt at creating my portfolio site! I created this to display my data science projects and to tell a little bit more about myself. 
+Here is version one of my portfolio site! I created this to display my data science projects and to tell a little bit more about myself. I plan to revisit this project later to improve the responsiveness on mobile screens. The site features welcome page with featured projects and links to my other accounts, an About Me page with more details about my background and what I currently do now, a page showing all of my side projects, and a general road map that I am currently following. 
 
 ##  Tools 
 * HTML
@@ -7,6 +7,3 @@ Here is my first attempt at creating my portfolio site! I created this to displa
 * a fraction of JavaScript 
 * Git
 * GitHub
- 
-## Future Work
-I plan to revisit this project later next year to make the site more responsive as the pages do not hold together well on smaller screens like phones but looks great on PC monitors. 
